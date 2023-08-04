@@ -20,7 +20,6 @@ function About() {
             setMystyle({
                 color: 'white',
                 backgroundColor: 'black',
-                // border: '1px solid white'
             })
             setBtntxt("Enable light mode")
         }
