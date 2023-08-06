@@ -1,3 +1,9 @@
+#text formatter app
+In light mode
+![Web capture_6-8-2023_214343_localhost](https://github.com/AmanVashisht/react-basic-project/assets/138193090/cece7a14-564c-443e-9cbd-d27fc769ad89)
+In dark mode
+![Web capture_6-8-2023_214417_localhost](https://github.com/AmanVashisht/react-basic-project/assets/138193090/2f0a653a-9a76-4534-9691-4da14a70a47b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
