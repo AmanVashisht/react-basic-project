@@ -29,6 +29,7 @@ function App() {
       
     }
   }
+
   return (
     <>
            
@@ -36,9 +37,7 @@ function App() {
                 <Navbar title="Text-App" about="About" mode={mode}  togglemode={togglemode} />
                 <Routes>
                     <Route path='/about' element={<About />}/>
-                      
-                    <Route path='/' element={ <TextForm heading="Text-Formating" mode={mode} />} />
-                      
+                    <Route path='/' element={ <TextForm heading="Text-Formatter" mode={mode} />} />
               </Routes>
           </Router>
      </>
